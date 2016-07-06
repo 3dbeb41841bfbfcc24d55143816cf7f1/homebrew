@@ -1,4 +1,4 @@
-# Homebrew - The missing package manager for OS X
+# Homebrew - The missing package manager for OSX
 
 ## What is a Package Manager?
 
